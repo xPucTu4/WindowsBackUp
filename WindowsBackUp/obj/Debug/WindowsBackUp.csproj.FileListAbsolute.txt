@@ -1,0 +1,6 @@
+c:\users\root\documents\visual studio 2013\Projects\WindowsBackUp\WindowsBackUp\bin\Debug\WindowsBackUp.exe.config
+c:\users\root\documents\visual studio 2013\Projects\WindowsBackUp\WindowsBackUp\bin\Debug\WindowsBackUp.exe
+c:\users\root\documents\visual studio 2013\Projects\WindowsBackUp\WindowsBackUp\bin\Debug\WindowsBackUp.pdb
+c:\users\root\documents\visual studio 2013\Projects\WindowsBackUp\WindowsBackUp\obj\Debug\WindowsBackUp.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2013\Projects\WindowsBackUp\WindowsBackUp\obj\Debug\WindowsBackUp.exe
+c:\users\root\documents\visual studio 2013\Projects\WindowsBackUp\WindowsBackUp\obj\Debug\WindowsBackUp.pdb
